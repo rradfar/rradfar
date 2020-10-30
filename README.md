@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rradfar/rradfar/main/assets/EYiYWSvXkAIP5G6.jpeg" alt="Demo day" max-width="100%" height="auto">
+  <img src="https://raw.githubusercontent.com/rradfar/rradfar/main/assets/EYiYWSvXkAIP5G6.jpeg" alt="Demo day" max-width="500px" height="auto">
 
   <p style="padding: 30px">
     <a href="https://www.linkedin.com/in/rradfar/"><img height="30" src="https://raw.githubusercontent.com/rradfar/rradfar/main/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
