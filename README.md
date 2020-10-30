@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rradfar/rradfar/main/assets/xp3wtvpfqmv51.jpg" alt="Demo day" width="600px" height="auto">
+  <img src="https://raw.githubusercontent.com/rradfar/rradfar/main/assets/xp3wtvpfqmv51.jpg" alt="UI vs UX">
 
   <p style="margin: 30px">
     <a href="https://www.linkedin.com/in/rradfar/"><img height="30" src="https://raw.githubusercontent.com/rradfar/rradfar/main/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
