@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rradfar/rradfar/main/assets/xp3wtvpfqmv51.jpg" alt="Main profile image" style="display: block; width: 100%;" />
+  <img src="https://raw.githubusercontent.com/rradfar/rradfar/main/assets/for-loops.jpg" alt="Main profile image" style="display: block; width: 100%;" />
 
   <p style="margin: 30px; padding: 20px">
     <a href="https://www.linkedin.com/in/rradfar/"><img height="30" src="https://raw.githubusercontent.com/rradfar/rradfar/main/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
